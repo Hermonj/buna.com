@@ -1,4 +1,5 @@
-Project-Online-Shopping-Website.
+Buna.com
+Online Ethiopian coffee shop
 
 What We Do
 Our Aim
