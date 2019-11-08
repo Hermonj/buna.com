@@ -1,7 +1,6 @@
 # Buna.com
 # Online Ethiopian coffee shop
 
-# What We Do
 # Our Aim
 * is to be the best at what we do. We are dedicated and deliver on our promises. We source our own coffees and roast in small batches daily ensuring the coffee we sell and serve is always fresh.
 
